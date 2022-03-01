@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 76,
-    "timeWeek": 163,
-    "timeMonth": 174,
-    "timeYear": 174,
-    "dailyMinutesDown": {}
+    "time": 171,
+    "timeDay": 66,
+    "timeWeek": 149,
+    "timeMonth": 171,
+    "timeYear": 171,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Lumston",
